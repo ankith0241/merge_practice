@@ -9,6 +9,10 @@ D
 E
 G
 H
+<<<<<<< Updated upstream
 k l jjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+
+>>>>>>> Stashed changes
 
 
